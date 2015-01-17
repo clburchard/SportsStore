@@ -33,3 +33,5 @@ c:\users\chuck\documents\visual studio 2013\Projects\SportsStore\SportsStore.Uni
 c:\users\chuck\documents\visual studio 2013\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\System.Web.WebPages.Razor.xml
 c:\users\chuck\documents\visual studio 2013\Projects\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.dll
 c:\users\chuck\documents\visual studio 2013\Projects\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.pdb
+C:\Users\Chuck\Documents\Visual Studio 2013\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\Chuck\Documents\Visual Studio 2013\Projects\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.xml

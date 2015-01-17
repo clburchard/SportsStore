@@ -15,3 +15,8 @@ c:\users\chuck\documents\visual studio 2013\Projects\SportsStore\SportsStore.Dom
 c:\users\chuck\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
 c:\users\chuck\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
 c:\users\chuck\documents\visual studio 2013\Projects\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\Users\Chuck\Documents\Visual Studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Users\Chuck\Documents\Visual Studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Chuck\Documents\Visual Studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Chuck\Documents\Visual Studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Chuck\Documents\Visual Studio 2013\Projects\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml

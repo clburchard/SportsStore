@@ -30,3 +30,7 @@ c:\users\chuck\documents\visual studio 2013\Projects\SportsStore\SportsStore.Web
 c:\users\chuck\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
 c:\users\chuck\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
 c:\users\chuck\documents\visual studio 2013\Projects\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+C:\Users\Chuck\Documents\Visual Studio 2013\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\Chuck\Documents\Visual Studio 2013\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Chuck\Documents\Visual Studio 2013\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\Chuck\Documents\Visual Studio 2013\Projects\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
